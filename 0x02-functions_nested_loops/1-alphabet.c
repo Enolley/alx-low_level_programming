@@ -16,6 +16,4 @@ void print_lowercase(void)
   }
   
   _putchar('\n');
-  
-  return (0);
 }
