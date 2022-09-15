@@ -1,20 +1,27 @@
 #include "main.h"
 /**
-* more_numbers - prints 10 times the numbers, from 0 to 14.
+* print_diagonal - draws a diagonal line
+* @n: takes in an integer
 */
-void more_numbers(void)
+void print_diagonal(int n)
 {
-	int i;
-	char c;
+	int i, j;
 
-	for (i = 0; i < 10; i++)
-	{
-		for (c = 0; c <= 14; c++)
-		{
-			if (c > 9)
-			_putchar((c / 10) + '0');
-			_putchar((c % 10) + '0');
-		}
+	if (n <= 0)
 		_putchar('\n');
+	for (i = 0; i < n; i++)
+	{
+		for (j = 0; j <= i; j++)
+		{
+			if (i == j)
+			{
+				_putchar('\\');
+				_putchar('\n');
+			}
+			else
+			{
+				_putchar(' ');
+			}
+		}
 	}
 }
