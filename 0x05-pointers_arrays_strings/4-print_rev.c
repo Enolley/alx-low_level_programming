@@ -1,8 +1,3 @@
-/*
- * File: 4-print_rev.c
- * Auth: Jan Nelson
- */
-
 #include "main.h"
 
 /**
