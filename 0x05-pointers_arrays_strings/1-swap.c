@@ -1,8 +1,3 @@
-/*
- * File: 1-swap.c
- * Auth: Jan Nelson
- */
-
 #include "main.h"
 
 /**
