@@ -1,8 +1,3 @@
-/*
- * File: 101-keygen.c
- * Auth: Jan Nelson
- */
-
 #include <stdio.h>
 #include <stdlib.h>
 #include <time.h>
