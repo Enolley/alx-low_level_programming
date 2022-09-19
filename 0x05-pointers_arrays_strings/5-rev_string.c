@@ -1,8 +1,3 @@
-/*
- * File: 5-rev_string.c
- * Auth: Jan Nelson
- */
-
 #include "main.h"
 
 /**
