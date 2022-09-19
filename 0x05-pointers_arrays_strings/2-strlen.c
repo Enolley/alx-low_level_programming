@@ -1,8 +1,3 @@
-/*
- * File: 2-strlen.c
- * Auth: Jan Nelson
- */
-
 #include "main.h"
 
 /**
