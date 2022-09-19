@@ -1,8 +1,3 @@
-/*
- * File: 100-atoi.c
- * Auth: Jan Nelson
- */
-
 #include "main.h"
 
 /**
