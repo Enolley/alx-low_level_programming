@@ -1,8 +1,3 @@
-/*
- * File: 0-reset_to_98.c
- * Auth: Jan Nelson
- */
-
 #include "main.h"
 
 /**
