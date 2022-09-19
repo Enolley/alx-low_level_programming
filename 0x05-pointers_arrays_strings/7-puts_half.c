@@ -1,8 +1,3 @@
-/*
- * File: 7-puts_half.c
- * Auth: Jan Nelson
- */
-
 #include "main.h"
 
 /**
