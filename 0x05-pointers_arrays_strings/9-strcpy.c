@@ -1,8 +1,3 @@
-/*
- * File: 9-strcpy.c
- * Auth: Jan Nelson
- */
-
 #include<stdio.h>
 #include "main.h"
 
