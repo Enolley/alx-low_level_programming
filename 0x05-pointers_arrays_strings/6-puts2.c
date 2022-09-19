@@ -1,8 +1,3 @@
-/*
- * File: 6-puts2.c
- * Auth: Jan Nelson
- */
-
 #include "main.h"
 
 /**
