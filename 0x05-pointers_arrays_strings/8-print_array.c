@@ -1,8 +1,3 @@
-/*
- * File: 8-print_array.c
- * Auth: Jan Nelson
- */
-
 #include "main.h"
 #include <stdio.h>
 
