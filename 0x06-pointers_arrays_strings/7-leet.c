@@ -1,8 +1,3 @@
-/*
- * File: 7-leet.c
- * Auth: Jan Nelson
- */
-
 #include "main.h"
 
 /**
@@ -30,4 +25,3 @@ char *leet(char *str)
 
 	return (str);
 }
-
