@@ -1,8 +1,3 @@
-/*
- * File: 4-rev_array.c
- * Auth: Jan Nelson
- */
-
 #include "main.h"
 
 /**
