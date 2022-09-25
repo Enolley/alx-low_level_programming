@@ -1,8 +1,3 @@
-/*
- * File: 101-print_number.c
- * Auth: Jan Nelson
- */
-
 #include "main.h"
 
 /**
