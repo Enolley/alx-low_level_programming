@@ -1,8 +1,3 @@
-/*
- * File: 104-print_buffer.c
- * Auth: Jan Nelson
- */
-
 #include "main.h"
 #include <stdio.h>
 
