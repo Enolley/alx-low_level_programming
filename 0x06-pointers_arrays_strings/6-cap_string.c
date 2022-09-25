@@ -1,8 +1,3 @@
-/*
- * File: 6-cap_string.c
- * Auth: Jan Nelson
- */
-
 #include "main.h"
 
 /**
