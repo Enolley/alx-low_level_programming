@@ -1,8 +1,3 @@
-/*
- * File: 100-rot13.c
- * Auth: Jan Nelson
- */
-
 #include "main.h"
 
 /**
