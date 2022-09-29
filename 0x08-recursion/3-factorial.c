@@ -1,8 +1,3 @@
-/*
- * 3-factorial.c
- * Auth: Jan Nelson
- */
-
 #include "main.h"
 
 /**
