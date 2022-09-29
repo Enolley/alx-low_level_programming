@@ -1,8 +1,3 @@
-/*
- * File: 5-sqrt_recursion.c
- * Auth: Jan Nelson
- */
-
 #include "main.h"
 
 int get_sqrt(int num, int root);
