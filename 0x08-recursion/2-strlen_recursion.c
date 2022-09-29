@@ -1,8 +1,3 @@
-/*
- * File: 2-strlen_recursion.c
- * Auth: Jan Nelson
- */
-
 #include "main.h"
 
 /**
