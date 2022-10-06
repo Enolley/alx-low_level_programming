@@ -1,8 +1,3 @@
-/*
- * File: 4-add.c
- * Auth: Jan Nelson
- */
-
 #include <stdio.h>
 #include <stdlib.h>
 
