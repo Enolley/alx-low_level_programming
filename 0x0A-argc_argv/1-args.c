@@ -1,8 +1,3 @@
-/*
- * File: 1-args.c
- * Auth: Jan Nelson
- */
-
 #include <stdio.h>
 
 /**
