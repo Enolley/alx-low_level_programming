@@ -1,8 +1,3 @@
-/*
- * File: 101-strtow.c
- * Auth: Jan Nelson
- */
-
 #include "main.h"
 #include <stdlib.h>
 
