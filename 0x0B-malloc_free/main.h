@@ -1,12 +1,7 @@
 #ifndef MAIN_H
 #define MAIN_H
 
-/**
- * File: main.h
- * Auth: Jan Nelson
- * Desc: Header file containing prototypes for all functions
- *       used in the 0x0A-malloc_free directory.
- */
+
 
 char *create_array(unsigned int size, char c);
 char *_strdup(char *str);
