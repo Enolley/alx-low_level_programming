@@ -1,8 +1,3 @@
-/*
- * File: 3-mul.c
- * Auth: Jan Nelson
- */
-
 #include <stdio.h>
 #include <stdlib.h>
 
