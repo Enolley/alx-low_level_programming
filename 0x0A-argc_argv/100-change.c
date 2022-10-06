@@ -1,8 +1,3 @@
-/*
- * File: 100-change.c
- * Auth: Jan Nelson
- */
-
 #include <stdio.h>
 #include <stdlib.h>
 
