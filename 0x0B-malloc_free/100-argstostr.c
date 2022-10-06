@@ -1,8 +1,3 @@
-/*
- * File: 100-argstostr.c
- * Auth: Jan Nelson
- */
-
 #include "main.h"
 #include <stdlib.h>
 
