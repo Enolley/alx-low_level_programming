@@ -1,8 +1,3 @@
-/*
- * File: 0-whatsmyname.c
- * Auth: Jan Nelson
- */
-
 #include <stdio.h>
 
 /**
