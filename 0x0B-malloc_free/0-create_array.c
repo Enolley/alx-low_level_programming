@@ -1,8 +1,3 @@
-/*
- * File: 0-create_array.c
- * Auth: Jan Nelson
- */
-
 #include "main.h"
 #include <stdlib.h>
 
