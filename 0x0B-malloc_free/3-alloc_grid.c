@@ -1,8 +1,3 @@
-/*
- * File: 3-alloc_grid.c
- * Auth: Jan Nelson
- */
-
 #include "main.h"
 #include <stdlib.h>
 
