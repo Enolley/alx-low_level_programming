@@ -1,8 +1,3 @@
-/*
- * File: 2-str_concat.c
- * Auth: Jan Nelson
- */
-
 #include "main.h"
 #include <stdlib.h>
 
